@@ -1,6 +1,6 @@
 - 👋 Hello, there!
-- 👀 I’m interested in JavaScript, TypeScript, NodeJS
-- 🌱 I’m currently learning NextJS, NestJS
+- 👀 I’m web-developer, so I am interested in JavaScript, TypeScript and NodeJS.
+- 🌱 I’m currently learning NextJS, NestJS.
 - 📫 pavpavdev@gmail.com
 
 <!---
