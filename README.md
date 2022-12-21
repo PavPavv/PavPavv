@@ -1,6 +1,6 @@
 - 👋 Hello, there!
-- 👀 I’m a web-developer, so I am interested in JavaScript, TypeScript and NodeJS.
-- 🌱 I’m currently learning NestJS.
+- 👀 I’m a web-developer, so I am doing JavaScript, TypeScript and interested in NodeJS.
+- 🌱 I’m currently learning NestJS and a little bit of Python:)
 - 📫 pavpavdev@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavPavv&show_icons=true&theme=prussian)
