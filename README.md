@@ -1,5 +1,5 @@
 - 👋 Hello, there!
-- 👀 I’m a web-developer, so I am doing JavaScript, TypeScript and interested in NodeJS.
+- 👀 I’m a web-developer, so I am doing JavaScript, TypeScript and NodeJS.
 - 🌱 I’m currently learning NestJS and a little bit of Python:)
 - 📫 pavpavdev@gmail.com
 
