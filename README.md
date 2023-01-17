@@ -7,7 +7,7 @@
 
 
 -
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavPavv&exclude_repo=Brazil-Mexico,PavPavv.github.io,TS-cabinet)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavPavv&exclude_repo=Brazil-Mexico,PavPavv.github.io,TS-cabinet) -->
 -
 
 <!---
