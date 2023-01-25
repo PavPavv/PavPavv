@@ -1,7 +1,7 @@
 - 👋 Hello, there!
 - 👀 I’m a web-developer, so I am doing JavaScript(TypeScript) in ReactJS/NextJS on the client side and NodeJS (Express) on the server side.
 - 🌱 I’m currently learning NestJS and a little bit of Python:)
-- 🎯 Also I like Dart programing language and Flutter framework. I used to work with it professionally and for my personal projects.
+- 🎯 Also I like Dart programing language and Flutter framework.
 - 📫 pavpavdev@gmail.com
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavPavv&show_icons=true&theme=prussian) -->
