@@ -4,9 +4,9 @@
 - 🎯 Also I like Dart programing language and Flutter framework.
 - 📫 pavpavdev@gmail.com
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavPavv&show_icons=true&theme=prussian) -->
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavPavv&show_icons=true&theme=prussian)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavPavv&exclude_repo=Brazil-Mexico,PavPavv.github.io,TS-cabinet) -->
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavPavv&exclude_repo=Brazil-Mexico,PavPavv.github.io,TS-cabinet)
 
 <!---
 PavPavv/PavPavv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
