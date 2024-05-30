@@ -1,6 +1,6 @@
 - 👋 Hello, there!
 - 👀 I’m a web-developer, so I am doing JavaScript(TypeScript) in ReactJS on the client side and NodeJS (Express/Nest) on the server side.
-- 🌱 I’m currently learning NestJS and a little bit of Python:)
+- 🌱 Python algorithms, backend development
 - 📫 pavpavdev@gmail.com
 
 <!---[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavPavv&show_icons=true&theme=prussian)--->
