@@ -1,6 +1,6 @@
 - 👋 Hello, there!
 - 👀 I’m a web-developer, so I am doing JavaScript(TypeScript) in ReactJS/AngularJS on the client side and NodeJS (Express/Nest) on the server side.
-- 🌱 Python
+- 🌱 Python algoritms
 - 📫 pavpavdev@gmail.com
 - 🌐 [My website](https://pavpavv.github.io/daily-code-checker/)
 
